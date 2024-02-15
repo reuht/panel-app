@@ -19,8 +19,8 @@ export default function LinearChart() {
         },
 
       ]}
-      width={1100}
-      height={450}
+      width={600}
+      height={400}
     />
   );
 }
